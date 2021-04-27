@@ -1,1 +1,1 @@
-# my_first_repositiory
+# quiz_repo
